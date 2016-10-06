@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Afterglow-blue.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}

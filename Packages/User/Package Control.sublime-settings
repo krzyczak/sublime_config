@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Elixir",
+		"Haml",
+		"One Dark Color Scheme",
+		"Package Control",
+		"SCSS",
+		"Theme - Afterglow"
+	]
+}
