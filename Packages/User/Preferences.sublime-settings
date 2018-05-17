@@ -1,7 +1,16 @@
 {
 	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12.5,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"public/packs",
+		".git",
+		"tmp",
+		"log"
+	],
+	"font_size": 13,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -16,5 +25,9 @@
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
+  "rulers": [94],
+  "caret_style": "phase",
+  "highlight_line": true,
+  "bold_folder_labels": true
 }

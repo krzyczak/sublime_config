@@ -3,5 +3,6 @@
   { "keys": ["ctrl+shift+down"], "command": "select_lines", "args": {"forward": true} },
   { "keys": ["super+\\"], "command": "toggle_side_bar" },
   { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"},
-  { "keys": ["super+shift+t"], "command": "reopen_last_file" }
+  { "keys": ["super+shift+t"], "command": "reopen_last_file" },
+  { "keys": ["super+;"], "command": "collapse_spaces" }
 ]
