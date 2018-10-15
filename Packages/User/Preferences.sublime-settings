@@ -1,4 +1,6 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -11,6 +13,7 @@
 		"log"
 	],
 	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -20,14 +23,14 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"rulers":
+	[
+		94
+	],
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false",
-  "rulers": [94],
-  "caret_style": "phase",
-  "highlight_line": true,
-  "bold_folder_labels": true
+	"word_wrap": "false"
 }
