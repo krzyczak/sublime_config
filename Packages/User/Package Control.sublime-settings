@@ -5,13 +5,25 @@
 	],
 	"installed_packages":
 	[
-		"Better CoffeeScript",
+		"Beancount",
+		"CoffeeScript",
+		"Crystal",
+		"DotENV",
 		"Elixir",
 		"Git",
 		"Haml",
 		"One Dark Color Scheme",
 		"Package Control",
-		"SCSS",
-		"Theme - Afterglow"
-	]
+		"Pine",
+		"Rust Enhanced",
+		"Sass",
+		"Swift",
+		"Theme - Afterglow",
+		"Theme - One Dark",
+		"TOML",
+	],
+	"repositories":
+	[
+	],
+	"debug": true,
 }

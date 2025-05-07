@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"color_scheme": "Mariana.sublime-color-scheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -10,13 +10,16 @@
 		"public/packs",
 		".git",
 		"tmp",
-		"log"
+		"log",
+		".next",
+		"dist",
+		"coverage"
 	],
-	"font_size": 13,
+	"font_size": 13.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
 	],
 	"indent_guide_options":
 	[
@@ -25,12 +28,17 @@
 	],
 	"rulers":
 	[
-		94
+		110
 	],
 	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false"
+	"word_wrap": "false",
+
+  "remember_workspace": false,
+
+  "auto_complete_commit_on_tab": true,
+	"index_files": true,
 }
